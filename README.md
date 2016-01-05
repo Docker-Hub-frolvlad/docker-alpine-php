@@ -1,3 +1,7 @@
+[![Docker Stars](https://img.shields.io/docker/stars/frolvlad/alpine-php.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-php/)
+[![Docker Pulls](https://img.shields.io/docker/pulls/frolvlad/alpine-php.svg?style=flat-square)](https://hub.docker.com/r/frolvlad/alpine-php/)
+
+
 PHP Docker image
 ================
 
