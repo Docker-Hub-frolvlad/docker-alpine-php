@@ -1,4 +1,3 @@
-FROM alpine:3.5
+FROM alpine:3.6
 
-RUN apk add --no-cache php7 && \
-    ln -s php7 /usr/bin/php
+RUN apk add --no-cache php7
