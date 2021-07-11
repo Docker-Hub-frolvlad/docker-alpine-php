@@ -8,9 +8,7 @@ PHP Docker image
 This image is based on Alpine Linux image, which is only a 5MB image, and contains
 [PHP](http://php.net/) programming language.
 
-Download size of this image is only:
-
-[![](https://images.microbadger.com/badges/image/frolvlad/alpine-php.svg)](http://microbadger.com/images/frolvlad/alpine-php "Get your own image badge on microbadger.com")
+This image is only 17MB on disk.
 
 NOTE: This image is not really intended for a site hosting use-case. It is
 created to run pure PHP code from a shell.
